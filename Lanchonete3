@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" lang="pt-br">
+        <title> Lanchonete do Luis </title>
+        <link rel="stylesheet" href="3.css">
+    </head>
+
+    <body id="body">
+        <div class="div1">
+            <img src="hamburguer.jpeg" alt class="img1">
+        </div>
+        <h1 class="lanchonete"> Lanchonete do Luis </h1>
+        <p class="p1"> Sobre Nós &nbsp; Lanches &nbsp; Faça seu Pedido </p>
+        <h3 class="h3"> Sobre nós </h3>
+        <p2 class="p2"> Desde o seu início humilde em 10 de fevereiro de 1990, a
+            Lanchonete do Luiz tem sido uma parte querida da comunidade local.
+            Fundada com paixão e um profundo desejo de fornecer serviços e
+            produtos de qualidade na região, a lanchonete tem passado por
+            muitas mudanças ao longo dos anos, mas uma coisa permanece constante
+            - o nosso compromisso inabalável com a satisfação dos nossos
+            clientes.</p2>
+        <p></p>
+        <p3 class="p3"> A história da Lanchonete do Luiz começou com a visão do
+            nosso fundador Luiz que tinha um sonho de criar um lugar acolhedor
+            onde amigos e famílias pudessem se reunir pare desfrutar de
+            refeições deliciosas e momentos memoráveis. Esse sonho se tornou
+            realidade e hoje estamos orgulhosos de ser um destino confiável para
+            os amantes da boa comida em nossa região.</p3>
+        <p></p>
+        <p4 class="p4"> Ao longo dos anos, evoluímos e inovamos constantemente
+            para atender as preferências em constante mudança dos nossos
+            clientes. Nossa equipe dedicada trabalha arduamente para oferecer um
+            cardápio diversificado que agrada a todos os paladares
+            sempre utilizando ingredientes frescos e de alta qualidade.</p4>
+        <p></p>
+        <p5 class="p5"> A Lanchonete do Luiz não é apenas um restaurante, mas um
+            lugar onde as histórias são compartilhadas, risadas ecoam a os laços
+            são fortalecidos. Agradecemos a cada um de nossos clientes por
+            fazerem parte dessa jornada conosco ao longo dos anos, e
+            estamos ansiosos para continuar servindo e inovando para as futuras
+            gerações.</p5>
+        <p></p>
+        <p6 class="p6"> Junte-se a nós na Lanchonete do Luiz e descubra a
+            tradição, a qualidade e o sabor que nos tornaram uma parte tão
+            especial da nossa comunidade. Estamos ansiosos para recebê-lo fazer
+            parte das suas memórias culinárias.</p6>
+        <p></p>
+
+        <div class="div2">
+            <img src="mapa.jpeg" alt class="img2">
+        </div>
+        <footer class="f1">
+            <p> ©️ 2023 Lanchonete do luiz - Todos os Direitos Reservados </p>
+        </footer>
+    </body>
+</html>

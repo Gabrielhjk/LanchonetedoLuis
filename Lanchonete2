@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+
+    <head>
+        <meta charset="utf-8" lang="pt-br">
+        <title> Lanchonete do Luis </title>
+        <link rel="stylesheet" href="2.css">
+    </head>
+
+    <body id="body">
+        <div class="div1">
+            <img src="hamburguer.jpeg" alt class="img1">
+        </div>
+        <h1 class="lanchonete"> Lanchonete do Luis </h1>
+        <p class="p1"> Sobre Nós &nbsp; Lanches &nbsp; Faça seu Pedido </p>
+        <p class="p2"> Venha pessoalmente ou peça seu lanche pelo nosso site no
+            menu, me Faça seu pedido.</p>
+        <br />
+        <p></p>
+        <div class="div2">
+            <img src="mapa.jpeg" alt class="img2">
+        </div>
+        <footer class="f1">
+            <p> ©️ 2023 Lanchonete do luiz - Todos os Direitos Reservados </p>
+        </footer>
+    </body>
+
+</html>

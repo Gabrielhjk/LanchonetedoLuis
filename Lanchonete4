@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" lang="pt-br">
+    <title> Lanchonete do Luis </title>
+    <link rel="stylesheet" href="4.css">
+</head>
+
+<body id="body">
+    <div class="div1">
+        <img src="hamburguer.jpeg" alt="">
+    </div>
+        <div>
+            <h1 class="lanchonete"> Lanchonete do Luis </h1>
+            <p class="p1"> Sobre Nós &nbsp; Lanches &nbsp; Faça seu Pedido </p>
+            <div id="div-lanches-geral">
+                <div id="div-lanches">
+                    <img src="cachoro quente.jpeg" alt="">
+                    <p>Cachorro quente <br>
+                       R$ 6,00 </p>
+                </div>
+                <div id="div-lanches">
+                    <img src="misto quente.jpeg" alt="">
+                    <p> Misto Quente <br>
+                        R$ 3,00 </p>     
+                </div>
+                <div id="div-lanches">
+                    <img src="cachoro quente.jpeg" alt="">
+                    <p>Cachorro quente <br>
+                        R$ 6,00 </p>
+                </div>
+        </div>
+            
+        <div id="div-lanches-geral-2">
+            <div id="div-lanches">
+                <img src="cachoro quente.jpeg" alt="">
+                <p>Cachorro quente <br>
+                   R$ 6,00 </p>
+            </div>
+            <div id="div-lanches">
+                <img src="misto quente.jpeg" alt="">
+                <p> Misto Quente <br>
+                    R$ 3,00 </p>     
+            </div>
+            <div id="div-lanches">
+                <img src="cachoro quente.jpeg" alt="">
+                <p>Cachorro quente <br>
+                    R$ 6,00 </p>
+            </div>
+        </div>
+        
+        <div id="div-lanches-geral-3">
+            <div id="div-lanches">
+                <img src="cachoro quente.jpeg" alt="">
+                <p>Cachorro quente <br>
+                   R$ 6,00 </p>
+            </div>
+            <div id="div-lanches">
+                <img src="misto quente.jpeg" alt="">
+                <p> Misto Quente <br>
+                    R$ 3,00 </p>     
+            </div>
+            <div id="div-lanches">
+                <img src="cachoro quente.jpeg" alt="">
+                <p>Cachorro quente <br>
+                    R$ 6,00 </p>
+            </div>
+        </div>
+
+        
+        
+            <footer class="f1">
+                <p> ©️ 2023 Lanchonete do luiz - Todos os Direitos Reservados </p>
+            </footer>
+
+</body>
+
+</html>
